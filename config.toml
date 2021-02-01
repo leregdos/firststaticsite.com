@@ -64,7 +64,7 @@ title   = "PROGRAMMER"
 enable  = true
 title   = "ABOUT ME"
 content = "Hello, I am a second-year student at New York University Abu Dhabi. I love learning new things and working in tech. Whenever problems arise, I strive to solve them with the best of my abilities. I am currently in Ulaanbaatar, Mongolia."
-image   = "images/about/about.jpg"
+image   = "img/sonnyreal.png"
 
 # Call to Action
 [params.cta]
